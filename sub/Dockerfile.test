@@ -1,0 +1,3 @@
+FROM scratch
+ADD / i-am-in-subdir
+EXPOSE 8080 

@@ -1,0 +1,3 @@
+FROM scratch
+ADD / i-am-in-current-dir
+EXPOSE 8080 

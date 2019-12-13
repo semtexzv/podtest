@@ -1,0 +1,3 @@
+FROM scratch
+ADD /sub/testfile	 testfile
+EXPOSE 8080 
